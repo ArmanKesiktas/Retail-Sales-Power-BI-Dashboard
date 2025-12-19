@@ -90,6 +90,7 @@ All dashboard pages are exported as a single PDF file for easy review and sharin
 `Retail Sales PowerBI Visualize.pdf`
 
 > This PDF contains all report pages in presentation-ready format.
+[Retail Sales PowerBI Visualize.pdf](https://github.com/user-attachments/files/24257577/Retail.Sales.PowerBI.Visualize.pdf)
 
 ---
 
@@ -122,4 +123,4 @@ All dashboard pages are exported as a single PDF file for easy review and sharin
 ---
 
  *This project is created for portfolio purposes and demonstrates SQL-driven data analysis visualized through Power BI.
-   ```
+
